@@ -1,4 +1,4 @@
-# Instagram-Scrape-Comments
+# Export an Instagram Post's comments to a CSV file
 This is a simple Python script to scrape the first few comments of your Instagram account
 
 ## All you need to run this file is:
