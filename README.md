@@ -7,14 +7,14 @@ This is a simple Python script to scrape the first few comments of your Instagra
 
 ## Install
 ```
-pip install facebook-sdk termcolor
+$ pip install facebook-sdk termcolor
 
 ```
 ## Run the script
 
 ```
 
-python3 instagram.py
+$ python3 instagram.py
 
 ```
 The program will generate a csv file for any post. This works great for competitions that may require scraping of large comment sections.
